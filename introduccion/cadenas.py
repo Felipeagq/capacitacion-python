@@ -17,10 +17,16 @@ print("Holas academia steam".find("s"))
 print("Holas academia steam".rfind("s"))
 
 # slice
+"string[inicio:fin:pasos]"
 print("longitud de una cadena")
 print(len("Holas academia steam"))
 print("Holas academia steam"[15])
 print("Holas academia steam"[15:20])
+print("Holas academia steam"[::2])
+print("Holas academia steam"[::-1])
+
+
+
 
 
 
