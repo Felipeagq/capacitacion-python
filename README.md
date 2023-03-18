@@ -10,3 +10,5 @@
 - Python.
 - git / git bash.
 - Terminal de Windows con git bash.
+
+### tipos de datos
