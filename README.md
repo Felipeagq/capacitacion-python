@@ -27,3 +27,18 @@ python file.py
 - title()
 - split()
 - replace()
+- find()
+- rfind()
+
+### Enteros y Flotantes
+
+
+## Variables
+### Creación de variables
+- Un espacio en memoria reservado con un nombre
+- para crear una variable ````variable = valor````
+
+### f-string y formateo
+- String estaticos: texto fijo.
+- string dinamicos: que cambian con las variables
+- una forma de crear string de forma dinamica ````print(f"texto {varibale} texto")````
