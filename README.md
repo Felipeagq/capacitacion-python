@@ -42,3 +42,11 @@ python file.py
 - String estaticos: texto fijo.
 - string dinamicos: que cambian con las variables
 - una forma de crear string de forma dinamica ````print(f"texto {varibale} texto")````
+
+## Codigo Estructural
+### if
+#### elif
+#### if anidado
+### for 
+### While
+### 
